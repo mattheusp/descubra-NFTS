@@ -1,4 +1,4 @@
-# Landing Page para Site de NFTs
+# Landing Page para Site de NFTS
 
 Bem-vindo ao repositório do projeto Landing Page para o Site de NFTs! Este é um projeto emocionante que visa proporcionar uma experiência única aos entusiastas e colecionadores de NFTs (Tokens Não Fungíveis). A landing page foi cuidadosamente desenvolvida para atrair e engajar os usuários interessados em explorar e participar do ecossistema de arte, colecionáveis e itens digitais exclusivos baseados em blockchain.
 
