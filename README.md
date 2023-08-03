@@ -10,12 +10,6 @@ Bem-vindo ao repositório do projeto Landing Page para o Site de NFTs! Este é u
 
 3. **Informações sobre o Projeto:** A página contém informações detalhadas sobre o projeto, incluindo uma visão geral sobre o que são NFTs, como eles funcionam e como os usuários podem participar do mercado de NFTs.
 
-4. **Seção de Colecionadores:** Nesta seção, os usuários podem encontrar depoimentos e histórias de colecionadores de NFTs, compartilhando suas experiências e paixão por esse universo digital.
-
-5. **Integração com Metamask:** Para facilitar a participação dos usuários, a landing page inclui integração com a carteira Metamask, permitindo que eles interajam diretamente com os NFTs disponíveis.
-
-6. **Formulário de Inscrição:** Os usuários podem se inscrever para receber atualizações por e-mail sobre novos lançamentos, leilões e eventos especiais relacionados a NFTs.
-
 ## Tecnologias Utilizadas
 
 O site foi criado utilizando as seguintes tecnologias:
